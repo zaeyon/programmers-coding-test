@@ -18,7 +18,7 @@ function solution(elements) {
     }
   }
 
-  return answer;
+  return sumSet.size;
 }
 
 solution([7, 9, 1, 1, 4]);
